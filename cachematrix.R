@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## to create the inverse of a matrix (matrix should be inversible)
 
 makeCacheMatrix <- function(x = matrix()) {
 invs <- NULL
